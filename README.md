@@ -20,4 +20,4 @@ Model has an accuracy of over 95 %.
 
 Then, i learned HTML and CSS.
 Now, i have started learning Bootstrap.
-Thimgs yet to be done are: Learning Flask, Making the website.
+Things yet to be done are: Learning Flask, Making the website.
